@@ -8388,6 +8388,7 @@ body {
   height: 60px;
   background-color: #000;
   /* User register page */
+  /* User profile page */
 }
 
 .footer .container {
@@ -8408,5 +8409,9 @@ body {
   margin-bottom: 0px;
   margin-top: 10px;
   cursor: pointer;
+}
+
+.footer .users-show-page .user-info .thumbnail {
+  margin-bottom: 0px;
 }
 
